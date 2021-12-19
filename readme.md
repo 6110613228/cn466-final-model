@@ -6,7 +6,7 @@
 
 ### [API](https://github.com/6110613228/cn466-final-api)
 
-### [Model (TensorflowJS)](https://github.com/6110613228/cn466-final-model)
+### [Line&LIFF](https://github.com/6110613228/cn466-final-line)
 
 ### [MQTT (Arduino)](https://github.com/6110613228/cn466-final-mqtt)
 
@@ -17,7 +17,7 @@
 - [CN466-final-line](#cn466-final-line)
   - [Other work](#other-work)
     - [API](#api)
-    - [Model (TensorflowJS)](#model-tensorflowjs)
+    - [Line&LIFF](#lineliff)
     - [MQTT (Arduino)](#mqtt-arduino)
   - [Table of contents](#table-of-contents)
   - [Model](#model)
