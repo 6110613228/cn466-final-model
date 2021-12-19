@@ -50,3 +50,5 @@ model.js เป็นตัวอย่างในการใช้ `@tensorfl
 ---
 
 ## Demo
+
+[Link](https://www.youtube.com/watch?v=3tx3XmVQmxg)
